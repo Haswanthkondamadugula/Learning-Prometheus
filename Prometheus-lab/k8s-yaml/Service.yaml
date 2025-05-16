@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-service
+  labels:
+    job: node-api # Identifies the job associated with this service
+    app: api
+    environment: production # Helps differentiate between environments (dev/staging/prod)
+spec:
+  type: ClusterIP # Internal service (change to NodePort or LoadBalancer if needed)
+  selector:
+    app: api # Matches pods labeled with 'app: api'
+  ports:
+    - name: http # Descriptive name for the port
+      protocol: TCP
+      port: 3000 # Exposed service port
+      targetPort: 3000 # Corresponding container port
+  sessionAffinity: None # Ensures no sticky sessions (modify if needed)
+  sessionAffinityConfig:
+    clientIP:
+      timeoutSeconds: 10800 # 3 hours
