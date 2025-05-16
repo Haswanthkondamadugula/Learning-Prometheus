@@ -95,16 +95,16 @@ If you find a bug, have a feature request, or want to suggest an improvement:
 ## 🌎 **Community & Support**  
 
 👥 **Join our discussion and ask questions in our Telegram community:**  
-📢 [Join Telegram](https://t.me/prodevopsguy)  
+📢 [Join Telegram](https://t.me/DevOpsTechTeam)  
 
 💡 **Follow me on GitHub for more DevOps content:**  
-⭐ [GitHub Profile](https://github.com/NotHarshhaa)  
+⭐ [GitHub Profile](https://github.com/Haswanthkondamadugula)  
 
 ---
 
 ## 🙌**Acknowledgments**  
 
-This project is maintained by **[Harshhaa](https://github.com/NotHarshhaa)**.  
+This project is maintained by **[Haswanth](https://github.com/Haswanthkondamadugula)**.  
 Thank you for being part of the **DevOps & Prometheus** community! 💙  
 
 ---
