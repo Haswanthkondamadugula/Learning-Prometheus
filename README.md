@@ -90,6 +90,6 @@ This directory contains hands-on labs and YAML manifest files for deploying Prom
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted by Haswanth 
+This project is crafted by **[Haswanth](https://github.com/Haswanthkondamadugula)** 💡
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
