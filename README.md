@@ -47,7 +47,7 @@ This directory contains hands-on labs and YAML manifest files for deploying Prom
 ## 📖 **Detailed Learning Guide**  
 
 📌 **Read the full tutorial here:**  
-🔗 **[Real-world Prometheus Deployment: A Practical Guide for Kubernetes Monitoring](https://blog.prodevopsguy.xyz/real-world-prometheus-deployment-a-practical-guide-for-kubernetes-monitoring)**  
+🔗 **[Real-world Prometheus Deployment: A Practical Guide for Kubernetes Monitoring] 
 
 ---
 
